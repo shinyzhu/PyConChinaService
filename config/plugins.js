@@ -2,10 +2,10 @@ module.exports = ({ env }) => ({
   upload: {
     provider: "azure-storage",
     providerOptions: {
-      account: "rgeastasiadiag487",
+      account: "sres",
       accountKey: env("STORAGE_ACCOUNT_KEY"),
-      serviceBaseURL: "https://rgeastasiadiag487.blob.core.windows.net/",
-      containerName: "pycon",
+      serviceBaseURL: "https://sres.blob.core.windows.net/",
+      containerName: "img",
       defaultPath: "",
       maxConcurrent: 10,
     },
