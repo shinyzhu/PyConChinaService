@@ -1,12 +1,12 @@
-# KaiYuanShe service
+# PyConChina service
 
-[开源社][1]**数据 API 服务**
+[PyConChina][1] **数据 API 服务**
 
 ## 重要链接
 
 - 技术入门：https://tech-query.me/development/headless-cms-strapi/
-- 管理后台：https://data.kaiyuanshe.cn/admin/
-- API 文档：https://data.kaiyuanshe.cn/documentation/
+- 管理后台：https://pycon.onazure.dev/admin/
+- API 文档：https://pycon.onazure.dev/documentation/
 
 ## 数据结构
 
@@ -36,4 +36,4 @@
 | Period |   Date   |     周期     |
 | Goods  | Supplies | 设备、纪念品 |
 
-[1]: https://kaiyuanshe.cn/
+[1]: https://cn.pycon.org/
