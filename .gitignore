@@ -113,4 +113,5 @@ license.txt
 exports
 .cache
 build
-extensions/documentation/
+.strapi-updater.json
+documentation/
